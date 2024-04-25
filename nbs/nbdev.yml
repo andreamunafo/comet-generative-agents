@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "comet-generative-agents"
+  site-url: "https://andreamunafo.github.io/comet-generative-agents"
+  description: "Generative AI agents for the PRIN Project COMET"
+  repo-branch: main
+  repo-url: "https://github.com/andreamunafo/comet-generative-agents"
